@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.Footer{
+  color:white;
+background-color: black;
+height: 50px;
+
+}
+.Footer-email{
+  font-size: 20px;
+  
+}
